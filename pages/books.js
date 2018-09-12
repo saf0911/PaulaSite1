@@ -57,47 +57,116 @@ const Books = () => (
             Any Night Grilling is the only book you and your grill need.
           </p>
         </div>
-      <div className='book2'>
-        <img className='CC' src='./static/images/CC.jpg'/>
-        <Link href="https://www.amazon.com/gp/product/B000S1L8ZW/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i1?_encoding=UTF8&camp=1789&creative=9325&linkCode=ur2&tag=storypodca-20&linkId=2P4S6EY6B462X4AR" target="_blank">
-          <a className='CCButton'>
-            <img src="http://www.niftybuttons.com/amazon/amazon-button2.png" alt="Amazon Button (via NiftyButtons.com)" />
-          </a>
-        </Link>
-        <p>
-          Who hasn&lsquo;t fantasized about leaving behind the chaos of everyday life
-          and moving someplace where life is simpler? Well, that&lsquo;s just
-          what chef and food writer Paula Disbrowe did when she left New York
-          City and moved to Texas. She traded her subway MetroCard for a pickup
-          truck and her stiletto heels for a pair of down-home cowboy boots.
+        <div className='book2'>
+          <img className='CC' src='./static/images/CC.jpg'/>
+          <Link href="https://www.amazon.com/gp/product/B000S1L8ZW/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i1?_encoding=UTF8&camp=1789&creative=9325&linkCode=ur2&tag=storypodca-20&linkId=2P4S6EY6B462X4AR" target="_blank">
+            <a className='CCButton'>
+              <img src="http://www.niftybuttons.com/amazon/amazon-button2.png" alt="Amazon Button (via NiftyButtons.com)" />
+            </a>
+          </Link>
+          <p>
+            Who hasn&lsquo;t fantasized about leaving behind the chaos of everyday life
+            and moving someplace where life is simpler? Well, that&lsquo;s just
+            what chef and food writer Paula Disbrowe did when she left New York
+            City and moved to Texas. She traded her subway MetroCard for a pickup
+            truck and her stiletto heels for a pair of down-home cowboy boots.
 
-          In Cowgirl Cuisine, Paula tells her story through food. She weaves
-          together romance, adventure, and more than a few laughs as she
-          celebrates the beauty of flavorful food, fresh air, and her own
-          wholesome recipes, all while taking home cooks on a journey well
-          off the beaten path.
+            In Cowgirl Cuisine, Paula tells her story through food. She weaves
+            together romance, adventure, and more than a few laughs as she
+            celebrates the beauty of flavorful food, fresh air, and her own
+            wholesome recipes, all while taking home cooks on a journey well
+            off the beaten path.
 
-          Like Texas itself, the recipes in Cowgirl Cuisine are big-hearted
-          and bold—whole-grain muffins bursting with berries, salads loaded
-          with leafy herbs and avocado, and fiery bowls of chili. Paula&lsquo;s food
-          is healthful and full of nutrients, but this is not a diet cookbook—cowgirls
-          don&lsquo;t have time to count calories (besides, they burn it all off
-            trail rides). Instead, this is food that is satisfying and easy to
-            prepare, which leaves plenty of time for living life to the fullest.
+            Like Texas itself, the recipes in Cowgirl Cuisine are big-hearted
+            and bold—whole-grain muffins bursting with berries, salads loaded
+            with leafy herbs and avocado, and fiery bowls of chili. Paula&lsquo;s food
+            is healthful and full of nutrients, but this is not a diet cookbook—cowgirls
+            don&lsquo;t have time to count calories (besides, they burn it all off
+              trail rides). Instead, this is food that is satisfying and easy to
+              prepare, which leaves plenty of time for living life to the fullest.
 
-            From hearty ranch breakfasts to fresh salads, spicy nibbles,
-            seductive desserts, and killer watermelon margaritas, Paula&lsquo;s
-            recipes are full of her signature zest, spunk, and spice. Start your
-            day off right with Canyon Granola or Cowgirl Migas. For lunch, have
-            a nourishing bowl of silky Roasted Pumpkin Soup with Red Chile Cream
-            or Chicken and Citrus Slaw Tostadas. For dinner, try Gazpacho Risotto
-            with Garlic Shrimp or Cowboy Pot Roast with Coffee and Whiskey. And
-            be sure to save room for one of Paula&lsquo;s decadent desserts, such
-            as Chocolate Pecan Squares or Dulce de Leche Flan with Pepita Brittle.
 
-In addition to her recipes, Paula includes humorous and heartfelt vignettes about wild animals on the loose, scorpions in the sheets, and Casanova cowboys. And the pages are filled with lush photographs of food and life on the range. Cowgirl Cuisine isn't just spurs and salsa—it's about following your dream. So saddle up and follow yours.
-        </p>
-      </div>
+          </p>
+        </div>
+        <div className='book2'>
+          <img className='CC' src='./static/images/CrecentCityCooking.jpg'/>
+          <Link href='https://www.amazon.com/Crescent-City-Cooking-Unforgettable-Recipes/dp/1400043891' target="_blank">
+            <a className='CCButton'>
+              <img src="http://www.niftybuttons.com/amazon/amazon-button2.png" alt="Amazon Button (via NiftyButtons.com)" />
+            </a>
+          </Link>
+          <p>
+            An untamed region teeming with snakes, alligators, and snapping turtles,
+            with sausage and cracklins sold at every gas station, Cajun Country is a
+            world unto itself. The heart of this area—the Acadiana region of
+            Louisiana—is a tough land that funnels its spirit into the local
+            cuisine. You can’t find more delicious, rustic, and satisfying
+            country cooking than the dirty rice, spicy sausage, and fresh
+            crawfish that this area is known for. It takes a homegrown guide
+            to show us around the back roads of this particularly unique region,
+            and in Real Cajun, James Beard Award–winning chef Donald Link shares
+            his own rough-and-tumble stories of living, cooking, and eating in Cajun Country.
+
+
+          </p>
+        </div>
+        <div className='book2'>
+          <img className='CC' src='./static/images/RealCajun.jpg'/>
+          <Link href='https://www.amazon.com/Real-Cajun-Rustic-Cooking-Louisiana/dp/0307395812?SubscriptionId=0ENGV10E9K9QDNSJ5C82&tag=&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0307395812' target="_blank">
+            <a className='CCButton'>
+              <img src="http://www.niftybuttons.com/amazon/amazon-button2.png" alt="Amazon Button (via NiftyButtons.com)" />
+            </a>
+          </Link>
+          <p>
+            An untamed region teeming with snakes, alligators, and snapping
+            turtles, with sausage and cracklins sold at every gas station,
+            Cajun Country is a world unto itself. The heart of this area—the
+            Acadiana region of Louisiana—is a tough land that funnels its
+            spirit into the local cuisine. You can’t find more delicious,
+            rustic, and satisfying country cooking than the dirty rice,
+            spicy sausage, and fresh crawfish that this area is known for.
+            It takes a homegrown guide to show us around the back roads of this
+            particularly unique region, and in Real Cajun, James Beard Award–winning
+            chef Donald Link shares his own rough-and-tumble stories of living,
+            cooking, and eating in Cajun Country.
+
+          </p>
+        </div>
+        <div className='book2'>
+          <img className='CC' src='./static/images/DownSouth.jpg'/>
+          <Link href='https://www.amazon.com/Down-South-Bourbon-Helpings-Everything/dp/0770433189?SubscriptionId=0ENGV10E9K9QDNSJ5C82&tag=&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0770433189' target="_blank">
+            <a className='CCButton'>
+              <img src="http://www.niftybuttons.com/amazon/amazon-button2.png" alt="Amazon Button (via NiftyButtons.com)" />
+            </a>
+          </Link>
+          <p>
+            Join Link Down South, where tall tales are told, drinks are slung back,
+            great food is made to be shared, and too many desserts, it turns out,
+            is just the right amount.
+
+          </p>
+        </div>
+        <div className='book2'>
+          <img className='CC' src='./static/images/Neelys.jpg'/>
+          <Link href='https://www.amazon.com/Down-Home-Neelys-Southern-Cookbook/dp/0307269949?SubscriptionId=0ENGV10E9K9QDNSJ5C82&tag=&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0307269949' target="_blank">
+            <a className='CCButton'>
+              <img src="http://www.niftybuttons.com/amazon/amazon-button2.png" alt="Amazon Button (via NiftyButtons.com)" />
+            </a>
+          </Link>
+          <p>
+            Here are the tried-and-true southern recipes that have been passed
+            down from one Neely generation to the next, including many of their
+            signature dishes, such as Barbeque Deviled Eggs, Florida Coast
+            Pickled Shrimp, Patâs Wings of Fire, Ginaâs Collard Greens, Grandma
+            Jeanâs Potato Salad, Nanaâs Southern Gumbo, Memphis-sized Pulled
+            Pork Sandwiches with Slaw, Get Yoâ Man Chicken, and Sock-It-to-Me
+            Cake. Certainly, no self-respecting southerner would dream of offering
+            a meal to a guest without a proper drink, so Pat and Gina have
+            included some of their favorite libations here, too.
+
+          </p>
+        </div>
+
       </div>
       <div className='rightSide'>
         <Rightside />
