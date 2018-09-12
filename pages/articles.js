@@ -198,11 +198,9 @@ const Articles = () => (
       }
 
       .leftSide {
-        // grid-area: leftSide;
         width: 100%;
-        border-left: 1px solid rgb(3,22,52);
+        border-right: 1px solid rgb(3,22,52);
         display: block;
-        // background-color: pink;
       }
 
 
