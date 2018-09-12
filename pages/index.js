@@ -53,13 +53,12 @@ const Home = () => (
         grid-template-areas:
           'leftSide center rightSide'
         gap: 10%;
-        margin-top: 2%;
       }
 
       .leftSide {
         // grid-area: leftSide;
         width: 100%;
-        border-right: 1px solid black;
+        border-right: 1px solid rgb(3,22,52);
         display: block;
         // background-color: pink;
       }
@@ -91,9 +90,9 @@ const Home = () => (
         // grid-area: rightSide;
         width: 100%;
         display: block;
-        border-left: 1px solid black;
-        padding: 1%;
-        // background-color: rgb(232,232,232);
+        // border-left: 1px solid black;
+        padding: 2%;
+        border-left: 1px solid rgb(3,22,52);
       }
 
 

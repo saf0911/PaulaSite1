@@ -49,7 +49,7 @@ function Header() {
         .navBar {
           list-style-type: none;
           text-decoration: none;
-          background-color: white;
+          background-color: rgb(3,22,52);
           display: grid;
           grid-template-columns: repeat(6, 1fr);
           grid-template-rows: 1fr ;
@@ -134,7 +134,7 @@ function Header() {
         text-align: center;
         align-self: center;
         text-decoration: none;
-        color: white;
+        color: #F9C78F;
       }
 
       .navBar {
@@ -148,9 +148,9 @@ function Header() {
         'logo   navbar-Links';
         grid-gap: 5px 10px;
         font-family: 'Playfair Display', serif;
-        margin-bottom: -30px;
-        background-color: black;
-
+        // margin-bottom: 30px;
+        background-color: rgb(3,22,52);
+        border-bottom: 1px solid black
   }
 
 
@@ -165,7 +165,7 @@ function Header() {
 
       .logo {
         text-align: center;
-        color: white;
+        color: #F9C78F;
         font-family: 'Playfair Display', serif;
       }
 
@@ -184,8 +184,10 @@ function Header() {
         display: inline;
         text-decoration: none;
         align-self: center;
-        color: white;
+        color: #F9C78F;
       }
+
+
 
       .navbar-portfolio {
         grid-area: portfolio;
