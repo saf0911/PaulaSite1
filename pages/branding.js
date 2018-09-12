@@ -70,7 +70,7 @@ Imagine your idea, fully realized. We'll help you tell it and shamelessly spread
       .leftSide {
         // grid-area: leftSide;
         width: 100%;
-        border-right: 1px solid black;
+        border-left: 1px solid rgb(3,22,52);
         display: block;
         // background-color: pink;
       }
@@ -105,12 +105,10 @@ Imagine your idea, fully realized. We'll help you tell it and shamelessly spread
       }
 
       .rightSide {
-        // grid-area: rightSide;
         width: 100%;
         display: block;
-        border-left: 1px solid black;
+        border-left: 1px solid rgb(3,22,52);
         padding: 2%;
-        // background-color: rgb(232,232,232);
       }
 
 

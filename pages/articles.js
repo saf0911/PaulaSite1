@@ -200,7 +200,7 @@ const Articles = () => (
       .leftSide {
         // grid-area: leftSide;
         width: 100%;
-        border-right: 1px solid black;
+        border-left: 1px solid rgb(3,22,52);
         display: block;
         // background-color: pink;
       }
@@ -266,7 +266,7 @@ const Articles = () => (
         // grid-area: rightSide;
         width: 100%;
         display: block;
-        border-left: 1px solid black;
+        border-left: 1px solid rgb(3,22,52);
         padding: 2%;
         // background-color: rgb(232,232,232);
       }
