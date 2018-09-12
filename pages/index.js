@@ -87,10 +87,8 @@ const Home = () => (
       }
 
       .rightSide {
-        // grid-area: rightSide;
         width: 100%;
         display: block;
-        // border-left: 1px solid black;
         padding: 2%;
         border-left: 1px solid rgb(3,22,52);
       }
