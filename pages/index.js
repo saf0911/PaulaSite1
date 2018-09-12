@@ -77,7 +77,7 @@ const Home = () => (
       }
 
       .currentBook {
-        width: 100%;
+        width: 90%;
         align-self: center;
       }
 

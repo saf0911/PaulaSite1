@@ -129,7 +129,7 @@ const About = () => (
         width: 100%;
         display: block;
         border-left: 1px solid black;
-        padding: 1%;
+        padding: 2%;
         // background-color: rgb(232,232,232);
       }
 
