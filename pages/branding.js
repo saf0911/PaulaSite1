@@ -65,7 +65,6 @@ Imagine your idea, fully realized. We'll help you tell it and shamelessly spread
         grid-template-areas:
           'leftSide center rightSide'
         gap: 10%;
-        margin-top: 2%;
       }
 
       .leftSide {

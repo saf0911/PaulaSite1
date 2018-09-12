@@ -85,7 +85,6 @@ const About = () => (
         grid-template-areas:
           'leftSide center rightSide'
         gap: 10%;
-        margin-top: 2%;
       }
 
       .leftSide {
