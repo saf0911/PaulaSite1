@@ -65,7 +65,6 @@ const Home = () => (
 
 
       .centerMain {
-        // grid-area: center;
         width: 85%;
         display: inline;
         margin-left: auto;
@@ -94,6 +93,46 @@ const Home = () => (
       }
 
 
+
+        @media only screen and (min-width : 321px) and (max-width: 578px) {
+          .hero {
+            display: grid;
+            grid-template-columns: 1fr;
+            grid-template-rows: repeat(3, 1fr);
+            grid-template-areas:
+              "center"
+              "right"
+              "left"
+          }
+
+          .leftSide {
+            grid-area: left;
+            width: 100%;
+          }
+
+          .centerMain {
+            grid-area: center;
+            width: 100%;
+          }
+
+          .rightSide {
+            grid-area: right;
+            width: 100%;
+          }
+
+          .centerMain {
+            width: 85%;
+            display: inline;
+            margin-left: auto;
+            margin-right: auto;
+          }
+
+          .currentBook {
+            width: 100%;
+            align-self: center;
+          }
+
+        }
 
     `}</style>
   </div>

@@ -38,12 +38,11 @@ function Header() {
           @import url('https://fonts.googleapis.com/css?family=Playfair+Display');
         }
 
-
-
         a {
           text-align: center;
           align-self: center;
           text-decoration: none;
+          color: #F9C78F;
         }
 
         .navBar {
@@ -58,7 +57,7 @@ function Header() {
           align-self: center;
           font-family: 'Playfair Display', serif;
           grid-gap: 10px 10px;
-          margin-bottom: -50px;
+
         }
 
         .navbar-Links {
@@ -77,40 +76,50 @@ function Header() {
           text-align: center;
         }
 
+        .logo {
+          color: #F9C78F;
+        }
+
         .navbar-home {
           grid-area: home;
           display: inline;
           text-decoration: none;
+          color: #F9C78F;
         }
 
         .navbar-about {
           grid-area: about;
           display: inline;
           text-decoration: none;
+          color: #F9C78F;
         }
 
         .navbar-branding {
           grid-area: branding;
           display: inline;
           text-decoration: none;
+          color: #F9C78F;
         }
 
         .navbar-books {
           grid-area: books;
           display: inline;
           text-decoration: none;
+          color: #F9C78F;
         }
 
         .navbar-articles {
           grid-area: articles;
           display: inline;
           text-decoration: none;
+          color: #F9C78F;
         }
 
         .navbar-instagram {
           grid-area: instagram;
           display: inline;
           text-decoration: none;
+          color: #F9C78F;
         }
 
       }
